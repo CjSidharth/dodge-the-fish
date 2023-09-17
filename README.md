@@ -1,4 +1,4 @@
-![Splash](https://github.com/CjSidharth/dodge-the-fish/assets/79306390/8af114c8-25ca-4821-b773-1b38ce6399c9)
+![Splash](assets/Splash.png)
 # dodge-the-fish
 A simple dodging game where you control a scuba diver and save him from some nasty fish!
 Your goal in this game is to survive the maximum amount of time against hordes of fish who are coming for you.
