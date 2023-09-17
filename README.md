@@ -16,7 +16,7 @@ Some images of gameplay before you play!
 ![G3](assets/G3.PNG)
 
 ## Installation
-No complicated stuff just download zip from <a href = "https://github.com/CjSidharth/dodge-the-fish/blob/main/DTF.zip">here </a> and run.
+Download from releases section and dont forget to put fish.exe and fish.pck in same folder.
 ## Editing
 Just download whole repo and open project.godot using Godot. This was made at that time using Godot 3.3 but it is compatible with Godot 3.5 LTS.
 ## Background
