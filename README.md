@@ -6,11 +6,12 @@ Dont get eaten. Good Luck!
 ## Gameplay
 Some images of gameplay before you play!
 > Still: Roaming around.
-> HELP: About to be eaten!
-> OVER: Classic Game over screen.
 <p align="center">
   <img src="https://github.com/CjSidharth/dodge-the-fish/assets/79306390/73219791-97b2-4263-974d-f61fc4341da5" alt="G1">
 </p>
+> HELP: About to be eaten!
+> OVER: Classic Game over screen.
+
 
 <p align="center">
   <img src="https://github.com/CjSidharth/dodge-the-fish/assets/79306390/5d81678e-fcaf-401f-bcc4-187b586dbc1d" alt="G2">
