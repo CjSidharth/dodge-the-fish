@@ -17,6 +17,7 @@ Some images of gameplay before you play!
 <p align="center">
   <img src="https://github.com/CjSidharth/dodge-the-fish/assets/79306390/c4fb07ba-653d-44ba-ab99-fdc41c4a6005" alt="G3">
 </p>
+
 ## Installation
-No complicated stuff just download zip from here and run.
+No complicated stuff just download zip from <a href = "https://github.com/CjSidharth/dodge-the-fish/blob/main/DTF.zip">here </a> and run.
 
