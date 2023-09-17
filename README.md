@@ -20,4 +20,9 @@ Some images of gameplay before you play!
 
 ## Installation
 No complicated stuff just download zip from <a href = "https://github.com/CjSidharth/dodge-the-fish/blob/main/DTF.zip">here </a> and run.
-
+## Editing
+Just download whole repo and open project.godot using Godot. This was made at that time using Godot 3.3 but it is compatible with Godot 3.5 LTS.
+## Background
+This was made way back in 2021 when I was exploring things with Godot. So it's essentially based on the similar named game Dodge The Creeps in the documentation.
+Fabulous pixel art was provided by <a href = "https://opengameart.org/users/ansimuz"> ansimuz </a>. This art specifically can be found <a href="https://opengameart.org/content/underwater-diving-pack"> here </a>.
+All other assets like music were from Godot Demo package.
