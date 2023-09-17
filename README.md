@@ -7,13 +7,13 @@ Dont get eaten. Good Luck!
 Some images of gameplay before you play!
 <blockquote> Still: Roaming around. </blockquote>
 
-![G1](assets/G1.png)
+![G1](assets/G1.PNG)
 <blockquote> HELP: About to be eaten! </blockquote>
 
-![G2](assets/G2.png)
+![G2](assets/G2.PNG)
 <blockquote>OVER: Classic Game over screen.</blockquote>
 
-![G3](assets/G3.png)
+![G3](assets/G3.PNG)
 
 ## Installation
 No complicated stuff just download zip from <a href = "https://github.com/CjSidharth/dodge-the-fish/blob/main/DTF.zip">here </a> and run.
